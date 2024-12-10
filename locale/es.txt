@@ -1,0 +1,31 @@
+#: locale=es
+
+## Acción
+
+### URL
+LinkBehaviour_AA0E1749_B087_F321_41D1_BC9E1BAE6415.source = https://www.linkedin.com/in/stephanie-chu-alvan-82966a335/
+LinkBehaviour_A3E99652_B08A_9520_41DD_ACE99355AFF1.source = https://www.musee-orangerie.fr/fr/oeuvres/le-matin-clair-aux-saules-196308
+LinkBehaviour_A3C9CBE8_B08E_92E0_41BA_F4250D48AB8E.source = https://www.musee-orangerie.fr/fr/oeuvres/matin-196303
+LinkBehaviour_A3EF99F3_B0FA_BEE0_41E2_E92F8DAC1BF9.source = https://www.musee-orangerie.fr/fr/oeuvres/matin-196303
+LinkBehaviour_A4E43341_B086_F321_41C8_9128C0214F60.source = https://www.musee-orangerie.fr/fr/oeuvres/reflets-darbres-196309
+
+## Media
+
+### Título
+panorama_BC89C6F2_B07F_92E0_41D5_C3A8D005B364.label = Panorama1
+panorama_BB4AE54B_B07F_B721_41DE_BE67C29CEAD3.label = Panorama2
+panorama_BB48B167_B07F_8FE1_41DD_DBB4405BB9AC.label = Panorama3
+panorama_BB48BEE6_B07F_92E3_419D_4D55061FA7AB.label = Panorama4
+panorama_BB4F1B23_B07F_F360_41E4_0E235F9D7DCB.label = Panorame6
+
+## Skin
+
+### Imágen
+Image_AADE1D43_B089_B721_41C1_BBF021D2CD61.url = skin/Image_AADE1D43_B089_B721_41C1_BBF021D2CD61_es.png
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 1
